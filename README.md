@@ -1,4 +1,4 @@
-Để chạy ứng dụng ImageClassifierApp, bạn sẽ cần các thư viện Python sau:
+Để chạy ứng dụng, bạn sẽ cần các thư viện Python sau:
 
 **_tkinter_**: Cho giao diện đồ họa (thường được tích hợp sẵn trong Python).
 
